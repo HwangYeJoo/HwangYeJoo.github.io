@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Hwang YeJoo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "나의 페이지에 오신 것을 환영합니다."
-  location         : "어느곳에나"
+  bio              : "내 포스팅을 봐주셔서 감사합니다."
+  location         : "여기저기"
   email            :
   links:
     - label: "Email"
