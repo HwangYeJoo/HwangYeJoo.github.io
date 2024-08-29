@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Hwang YeJoo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "내 포스팅을 봐주셔서 감사합니다."
+  avatar           : "/assets/images/hyj.jpg"
+  bio              : "내 **포스팅**을 봐주셔서 감사합니다."
   location         : "여기저기"
   email            :
   links:
