@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Hwang YeJoo"
-  avatar           : "C:\HWANG YEJOO\www\MYGIT\HwangYeJoo.github.io\images\hyj.jpg" 
+  avatar           : "/images/hyj.jpg" 
   bio              : "**얼렁뚱땅**일상 공유!"
   location         : "여기저기"
   email            :
