@@ -114,14 +114,14 @@ analytics:
 # Site Author
 author:
   name             : "Hwang YeJoo"
-  avatar           : "assets/images/hyj.jpg"
+  avatar           : "/images/hyj.jpg"
   bio              : "내 **포스팅**을 봐주셔서 감사합니다."
   location         : "여기저기"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:jooland05@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
