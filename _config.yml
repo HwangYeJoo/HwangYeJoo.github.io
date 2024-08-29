@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Hwang YeJoo"
   avatar           : "/images/hyj.jpg" 
-  bio              : "**얼렁뚱땅**일상 공유!"
+  bio              : "**얼렁뚱땅** 일상 공유!"
   location         : "여기저기"
-  email            :
+  email            : jooland05@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
