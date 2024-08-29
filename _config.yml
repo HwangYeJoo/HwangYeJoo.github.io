@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "JOO-LOG"
+title                    : "Joo-LOG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "YEJOO"
@@ -113,8 +113,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "YEJOO"
-  avatar           : "/images/hyj.jpg" 
+  name             : "YeJoo"
+  avatar           : "../images/hyj.jpg" 
   bio              : "나의 **얼렁뚱땅** 개발일지!"
   location         : "시크릿"
   email            : jooland05@gmail.com
