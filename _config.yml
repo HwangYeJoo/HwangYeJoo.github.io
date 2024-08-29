@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Joo Day"
+title                    : "JOO LOG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hwang YeJoo"
-description              : "나의 웹사이트에 오신 것을 환영합니다."
+name                     : "YEJOO"
+description              : "저의 블로그에 오신 여러분 환영합니다-!"
 url                      : "https://HwangYeJoo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Hwang YeJoo"
   avatar           : "C:\HWANG YEJOO\www\MYGIT\HwangYeJoo.github.io\images\hyj.jpg" 
-  bio              : "내 **포스팅**을 봐주셔서 감사합니다."
+  bio              : "**얼렁뚱땅**일상 공유!"
   location         : "여기저기"
   email            :
   links:
