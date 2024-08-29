@@ -8,3 +8,4 @@ title:  "first-posting!"
 **내 첫번째 포스팅입니다.**, this is my first Jekyll blog post.
 
 I hope you like it!
+포스팅을 했지만 보이지 않아요..
