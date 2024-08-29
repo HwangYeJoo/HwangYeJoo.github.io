@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "나만의 페이지"
+title                    : "예주의 하루"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hwang YeJoo"
+name                     : "황예주"
 description              : "나의 웹사이트에 오신 것을 환영합니다."
 url                      : "https://HwangYeJoo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hwang YeJoo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "나의 페이지에 오신 것을 환영합니다."
+  location         : "어느곳에나"
   email            :
   links:
     - label: "Email"
